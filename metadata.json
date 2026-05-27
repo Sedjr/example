@@ -1,0 +1,6 @@
+{
+  "name": "Haute Couture Prototype",
+  "description": "Prototype de site vitrine e-commerce ultra-moderne pour un styliste.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
